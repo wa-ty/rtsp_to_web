@@ -1,4 +1,4 @@
-Every way to do this online sucks
+For viewing RTSP feeds in your web browser really easy
 
 ## How it works
 
