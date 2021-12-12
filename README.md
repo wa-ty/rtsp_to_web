@@ -1,5 +1,5 @@
 # rstp_to_web
-For viewing RTSP feeds in your web browser really easy. Run this on a network with IP cameras attached and process the rtsp footage live into mp4 streams.
+For viewing RTSP feeds in your web browser. Run this on a network with IP cameras attached and process the rtsp footage live into mp4 streams.
 
 # How it works
 
