@@ -7,7 +7,7 @@ Using opencv with ffmpmeg allows you to stream rtsp format video using the stand
 
 A Queue is used to provide thread-safe frames to be grabbed by the client (read [here](https://docs.python.org/3/library/multiprocessing.html#pipes-and-queues)).
 
-Currently each client will spin up a thread for each video, so I'd assume a lot of clients might fry something.
+Currently each client will spin up a thread for each video, use this for testing.
 
 
 
